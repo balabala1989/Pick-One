@@ -1,0 +1,31 @@
+<loader version="1.0">
+	<application id="Pick_One">
+		<name >
+			Pick One
+		</name>
+		<description >
+			
+		</description>
+		<version >
+			1.0.0
+		</version>
+		<vendor >
+			Balaji Rajagopal
+		</vendor>
+		<copyright >
+			Copyright (c) 2013 Balaji Rajagopal
+		</copyright>
+		<fileset Java="1.55" _blackberryVersion="[7.1.0)">
+			<directory >
+				7.1.0
+			</directory>
+			<files >
+				Pick_One.cod
+
+			</files>
+
+		</fileset>
+
+	</application>
+
+</loader>
